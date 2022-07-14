@@ -18,7 +18,6 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 #define outros 19849.53
 
 int main(){
-    
     printf("Porcentagem de SP: %.2f\n", (sp*100)/total);
     printf("Porcentagem de RJ: %.2f\n", (rj*100)/total);
     printf("Porcentagem de MG: %.2f\n", (mg*100)/total);
